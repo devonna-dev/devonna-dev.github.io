@@ -2,5 +2,12 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Hi, im Dev! Welcome to my portfolio site!]
+# title: [Hi, im Dev! Welcome to my portfolio site!]
 # description: [A short description of your site's purpose]
+
+github:
+  is_project_page: true
+  repository_name: Hi, im Dev!
+  project_tagline: Fullstack engineer
+  repository_url: https://github.com/devonna-dev?tab=repositories
+  
